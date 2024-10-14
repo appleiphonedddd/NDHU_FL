@@ -5,15 +5,14 @@
 
 ## Contents
 
-- [NDHU\_FL](#ndhu_fl)
-  - [Contents](#contents)
-    - [Getting Started](#getting-started)
-          - [Requirements](#requirements)
-          - [Installation](#installation)
-    - [Directory Structure](#directory-structure)
-    - [Deployment](#deployment)
-    - [Frameworks Used](#frameworks-used)
-    - [Author](#author)
+
+- [Getting Started](#getting-started)
+  - [Requirements](#requirements)
+  - [Installation](#installation)
+- [Directory Structure](#directory-structure)
+- [Deployment](#deployment)
+- [Frameworks Used](#frameworks-used)
+- [Author](#author)
 
 
 ### Getting Started
