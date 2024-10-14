@@ -9,7 +9,7 @@
   - [Contents](#contents)
     - [Getting Started](#getting-started)
           - [Requirements](#requirements)
-          - [**Installation**](#installation)
+          - [Installation](#installation)
     - [Directory Structure](#directory-structure)
     - [Deployment](#deployment)
     - [Frameworks Used](#frameworks-used)
