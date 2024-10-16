@@ -30,7 +30,11 @@
 sudo apt-het update
 ```
 
-2. Clone the repo and enter repo folder
+
+2. Recommend reference the step to install - [Conda](https://hackmd.io/MkLFRrbqRbCYlf0k2FvTRg)
+
+
+3. Clone the repo and enter repo folder
 
 ```sh
 git clone https://github.com/appleiphonedddd/NDHU_FL.git
@@ -46,6 +50,7 @@ filetree
    ├── Fedavg.ipynb
 ├── LICENSE
 ├── README.md
+├── Experiment.ods
 ├── requirements.txt
 ```
 
