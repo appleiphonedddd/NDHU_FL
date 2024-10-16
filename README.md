@@ -27,7 +27,7 @@
 1. Upgrade package
 
 ```sh
-sudo apt-het update
+sudo apt-get update
 ```
 
 
