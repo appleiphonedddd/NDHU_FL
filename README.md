@@ -31,7 +31,7 @@ sudo apt-het update
 ```
 
 
-2. Recommend reference the step to install - [Conda](https://hackmd.io/MkLFRrbqRbCYlf0k2FvTRg)
+2. Recommend reference the step to install [Conda](https://hackmd.io/MkLFRrbqRbCYlf0k2FvTRg)
 
 
 3. Clone the repo and enter repo folder
