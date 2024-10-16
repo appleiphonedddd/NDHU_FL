@@ -31,8 +31,7 @@ sudo apt-het update
 ```
 
 
-2. Recommend reference the step to install [Conda](https://hackmd.io/MkLFRrbqRbCYlf0k2FvTRg)
-
+2. It is recommended to install [Conda](https://hackmd.io/MkLFRrbqRbCYlf0k2FvTRg) to establish an experimental environment
 
 3. Clone the repo and enter repo folder
 
@@ -65,9 +64,19 @@ pip install -r requirements.txt
 ### Frameworks Used
 
 - [PyTorch](https://pytorch.org/)
+- [Numpy](https://numpy.org/)
+- [Opencv](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
+- [Pandas](https://pandas.pydata.org/)
+- [Keras](https://keras.io/)
+- [Tensorflow](https://www.tensorflow.org/)
+- [Scikit-learn](https://scikit-learn.org/stable/)
+- [seaborn](https://seaborn.pydata.org/)
+- [Matplotlib](https://matplotlib.org/)
+- [imageio](https://imageio.readthedocs.io/en/stable/)
+- [OpenPyXL](https://openpyxl.readthedocs.io/en/stable/)
 
 ### Author
 
 611221201@gms.ndhu.edu.tw
 
-Name:Egor Lee
+Name: Egor Lee
